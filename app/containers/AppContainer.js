@@ -21,9 +21,6 @@ class AppContainer extends Component {
             </View>
         );
       }
-
-      // Test change
-      
 }
 
 function mapDispatchToProps(dispatch){
